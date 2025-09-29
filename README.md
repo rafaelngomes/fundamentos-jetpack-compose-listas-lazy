@@ -1,3 +1,4 @@
+
 # Checkpoint 5 - Kotlin
 
 * **Grupo:**
@@ -12,14 +13,16 @@
 
 Aqui estão algumas capturas de tela do projeto:
 
-### [Inicio do app]
+### <img width="1919" height="1011" alt="Captura de tela 2025-09-29 102437" src="https://github.com/user-attachments/assets/331d1961-1d55-479f-848c-efb04bb0c9d3" />
 
 *Tela inicial do app*
 
-### [Nome da Imagem 2]
+### [<img width="1919" height="1008" alt="Captura de tela 2025-09-29 102552" src="https://github.com/user-attachments/assets/118bbd66-a808-4013-98dc-db151d161ff5" />
+]
 
 *Tela após digitar algo no textField, adiciona um botão de limpar filtros.*
 
-### [Nome da Imagem 3]
+### [<img width="1918" height="1016" alt="Captura de tela 2025-09-29 103117" src="https://github.com/user-attachments/assets/debe74cf-df40-4ec9-8bc1-ecf06e9e2665" />
+]
 
 *O que acontece quando clicamos em um dos filtros selecionados*
