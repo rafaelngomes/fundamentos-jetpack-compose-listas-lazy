@@ -22,7 +22,7 @@ Aqui estão algumas capturas de tela do projeto:
 
 *O que acontece quando clicamos em um dos filtros selecionados*
 
-###  [<img width="1919" height="1008" alt="Captura de tela 2025-09-29 103117" src="https://github.com/user-attachments/assets/118bbd66-a808-4013-98dc-db151d161ff5" />
+###  [<img width="1918" height="1008" alt="Captura de tela 2025-09-29 103117" src="https://github.com/user-attachments/assets/118bbd66-a808-4013-98dc-db151d161ff5" />
 ]
 
 *Tela após digitar algo no textField, adiciona um botão de limpar filtros.*
